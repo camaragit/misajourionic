@@ -1,0 +1,8 @@
+{
+  "name": "misajourionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "7ac964ef"
+}
